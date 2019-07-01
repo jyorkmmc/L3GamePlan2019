@@ -1,0 +1,30 @@
+H:\Computer Science\CSharp\Bruvva'sGreatFlight\Bruvva'sGreatFlight\bin\Debug\Bruvva'sGreatFlight.exe.config
+H:\Computer Science\CSharp\Bruvva'sGreatFlight\Bruvva'sGreatFlight\bin\Debug\Bruvva'sGreatFlight.exe
+H:\Computer Science\CSharp\Bruvva'sGreatFlight\Bruvva'sGreatFlight\bin\Debug\Bruvva'sGreatFlight.pdb
+H:\Computer Science\CSharp\Bruvva'sGreatFlight\Bruvva'sGreatFlight\obj\Debug\Bruvva'sGreatFlight.csprojAssemblyReference.cache
+H:\Computer Science\CSharp\Bruvva'sGreatFlight\Bruvva'sGreatFlight\obj\Debug\Bruvva_sGreatFlight.Form1.resources
+H:\Computer Science\CSharp\Bruvva'sGreatFlight\Bruvva'sGreatFlight\obj\Debug\Bruvva_sGreatFlight.Properties.Resources.resources
+H:\Computer Science\CSharp\Bruvva'sGreatFlight\Bruvva'sGreatFlight\obj\Debug\Bruvva'sGreatFlight.csproj.GenerateResource.cache
+H:\Computer Science\CSharp\Bruvva'sGreatFlight\Bruvva'sGreatFlight\obj\Debug\Bruvva'sGreatFlight.csproj.CoreCompileInputs.cache
+H:\Computer Science\CSharp\Bruvva'sGreatFlight\Bruvva'sGreatFlight\obj\Debug\Bruvva'sGreatFlight.exe
+H:\Computer Science\CSharp\Bruvva'sGreatFlight\Bruvva'sGreatFlight\obj\Debug\Bruvva'sGreatFlight.pdb
+C:\Users\jordanyork\Desktop\Bruvva'sGreatFlight\Bruvva'sGreatFlight\bin\Debug\Bruvva'sGreatFlight.exe.config
+C:\Users\jordanyork\Desktop\Bruvva'sGreatFlight\Bruvva'sGreatFlight\obj\Debug\Bruvva'sGreatFlight.exe
+C:\Users\jordanyork\Desktop\Bruvva'sGreatFlight\Bruvva'sGreatFlight\obj\Debug\Bruvva'sGreatFlight.pdb
+C:\Users\jordanyork\Desktop\Bruvva'sGreatFlight\Bruvva'sGreatFlight\bin\Debug\Bruvva'sGreatFlight.exe
+C:\Users\jordanyork\Desktop\Bruvva'sGreatFlight\Bruvva'sGreatFlight\bin\Debug\Bruvva'sGreatFlight.pdb
+C:\Users\jordanyork\Desktop\Bruvva'sGreatFlight\Bruvva'sGreatFlight\obj\Debug\Bruvva'sGreatFlight.csprojResolveAssemblyReference.cache
+C:\Users\jordanyork\Desktop\Bruvva'sGreatFlight\Bruvva'sGreatFlight\obj\Debug\Bruvva_sGreatFlight.Form1.resources
+C:\Users\jordanyork\Desktop\Bruvva'sGreatFlight\Bruvva'sGreatFlight\obj\Debug\Bruvva_sGreatFlight.Properties.Resources.resources
+C:\Users\jordanyork\Desktop\Bruvva'sGreatFlight\Bruvva'sGreatFlight\obj\Debug\Bruvva'sGreatFlight.csproj.GenerateResource.Cache
+H:\C#\Bruvva'sGreatFlightUpgraded\Bruvva'sGreatFlight\bin\Debug\Bruvva'sGreatFlight.exe.config
+H:\C#\Bruvva'sGreatFlightUpgraded\Bruvva'sGreatFlight\bin\Debug\Bruvva'sGreatFlight.exe
+H:\C#\Bruvva'sGreatFlightUpgraded\Bruvva'sGreatFlight\bin\Debug\Bruvva'sGreatFlight.pdb
+H:\C#\Bruvva'sGreatFlightUpgraded\Bruvva'sGreatFlight\obj\Debug\Bruvva'sGreatFlight.csprojAssemblyReference.cache
+H:\C#\Bruvva'sGreatFlightUpgraded\Bruvva'sGreatFlight\obj\Debug\Bruvva_sGreatFlight.Form1.resources
+H:\C#\Bruvva'sGreatFlightUpgraded\Bruvva'sGreatFlight\obj\Debug\Bruvva_sGreatFlight.Properties.Resources.resources
+H:\C#\Bruvva'sGreatFlightUpgraded\Bruvva'sGreatFlight\obj\Debug\Bruvva'sGreatFlight.csproj.GenerateResource.cache
+H:\C#\Bruvva'sGreatFlightUpgraded\Bruvva'sGreatFlight\obj\Debug\Bruvva'sGreatFlight.csproj.CoreCompileInputs.cache
+H:\C#\Bruvva'sGreatFlightUpgraded\Bruvva'sGreatFlight\obj\Debug\Bruvva'sGreatFlight.exe
+H:\C#\Bruvva'sGreatFlightUpgraded\Bruvva'sGreatFlight\obj\Debug\Bruvva'sGreatFlight.pdb
+H:\C#\Bruvva'sGreatFlightUpgraded\Bruvva'sGreatFlight\obj\Debug\HighScoresProper.HighScores.resources
